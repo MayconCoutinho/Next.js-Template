@@ -36,7 +36,7 @@
    #### - 🎥 [Como criar e usar UseContext](https://www.youtube.com/watch?v=jo-IV8i5Gdk&list=LL&index=7)
    
 - useForm.js : useform pronto para ser usado em qualquer projeto 
-   #### - 🎥 [Como criar um useForme](https://www.youtube.com/watch?v=8Kn-Xd8mESc)
+   #### - 🎥 [Como criar e usar useForme](https://www.youtube.com/watch?v=8Kn-Xd8mESc)
 
 - _app.js : tem que ter para a aplicação em Nest.js funcionar
 - index.js : Rota Home do projeto 
