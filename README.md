@@ -37,7 +37,12 @@
 
 <br/> 
 
- 
+<a id="Dependências"></a>
+## 🧪 Dependências
+> Requisitos para rotar o codigo...
+
+<br />   
+
 
 ## `📖 Dependencies` 
 
