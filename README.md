@@ -75,19 +75,29 @@
 
 <br/>
 
+## `📖 Scripts` 
+
+```JSON
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+
+```
+
+<br/>
+
 ## `📖 Dependencies` 
 
 ```JSON
   "dependencies": {
-        "bcryptjs": "^2.4.3",
-        "cors": "^2.8.5",
-        "dotenv": "^16.0.3",
-        "express": "^4.18.2",
-        "firebase": "^9.15.0",
-        "firebase-admin": "^11.5.0",
-        "jsonwebtoken": "^9.0.0",
-        "multer": "^1.4.5-lts.1",
-        "uuid": "^9.0.0"
+        "axios": "^0.27.2",
+        "next": "12.2.5",
+        "react": "18.2.0",
+        "react-dom": "18.2.0",
+        "sass": "^1.54.8"
       }
 
 ```
@@ -99,18 +109,12 @@
 
 ```JSON
       "devDependencies": {
-        "@types/bcryptjs": "^2.4.2",
-        "@types/cors": "^2.8.13",
-        "@types/express": "^4.17.15",
-        "@types/jest": "^29.2.6",
-        "@types/jsonwebtoken": "^9.0.0",
-        "@types/multer": "^1.4.7",
-        "@types/node": "^18.11.18",
-        "@types/uuid": "^9.0.0",
-        "jest": "^29.4.0",
-        "ts-jest": "^29.0.5",
-        "ts-node-dev": "^2.0.0",
-        "typescript": "^4.9.4"
+        "eslint": "^8.38.0",
+        "eslint-config-google": "^0.14.0",
+        "eslint-config-next": "12.2.5",
+        "eslint-config-prettier": "^8.8.0",
+        "eslint-plugin-prettier": "^4.2.1",
+        "prettier": "^2.8.7"
       }
 
 ```
