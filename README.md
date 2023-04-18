@@ -118,16 +118,16 @@
       }
 
 ```
-  
+
 <br /> 
 
 
 ## `📖 Instalação` 
+  
+  
+  <br /> 
 
-
-<br /> 
-
-> Caso tenha Git basta da git clone, caso não tenha basta clicar em code e depois dowloand zip e seguir os proximos passos
+> Caso tenha Git basta da git clone, caso não tenha baixe o projeto completo em dowlon
 
 ```BASH
 git clone https://github.com/MayconCoutinho/Next.js-Template
@@ -142,7 +142,6 @@ npm i
 ```
 
 <br /> 
-
 
 <a id="Ideias"></a>
 ## 💡 Possíveis Melhoras
