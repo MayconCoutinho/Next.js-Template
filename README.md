@@ -37,19 +37,19 @@
 
 <br/>
 
-### 🎥 Video sobre Estrura de Projeto
+### ⚙ Estrura de Projeto
 
 <br/>
 
-- src : Pasta principal onde fica toda esturutura
-- components: Reutilizáveis
-- constants: URLs, cores
-- global : Utilizado em toda parte do projeto
-- hooks : Recursos de state e ciclo de vida
-- pages: Telas do seu app
-- scss : Estilização em sass
-- services: Integrações
-- styles: Estilização em css
+- [x] - src : Pasta principal onde fica toda esturutura
+- [x] - components: Reutilizáveis
+- [x] - constants: URLs, cores
+- [x] - global : Utilizado em toda parte do projeto
+- [x] - hooks : Recursos de state e ciclo de vida
+- [x] - pages: Telas do seu app
+- [x] - scss : Estilização em sass
+- [x] - services: Integrações
+- [x] - styles: Estilização em css
 
 <br/>
 
@@ -57,20 +57,14 @@
 
 <br/>
 
-- BASE_URL.JS : url principal para usar com axios
-- useContext.js : state global para ser usado em toda aplicação
-  - 🎥 Como criar e usar UseContext
-- useForm.js : useform pronto para ser usado em qualquer projeto
-  - 🎥 Como criar e usar useForme
-- _app.js : tem que ter para a aplicação em Nest.js funcionar
-
-- index.js : Rota Home do projeto
-
-- Home.module.scss : Estilização em sass
-
-- /services index.js : requisições feita por axios
-
-- /styles globals.css Estilização em css
+- [x] - BASE_URL.JS : url principal para usar com axios
+- [x] - useContext.js : state global para ser usado em toda aplicação
+- [x] - useForm.js : useform pronto para ser usado em qualquer projeto
+- [x] - _app.js : tem que ter para a aplicação em Nest.js funcionar
+- [x] - index.js : Rota Home do projeto
+- [x] - Home.module.scss : Estilização em sass
+- [x] - /services index.js : requisições feita por axios
+- [x] - /styles globals.css Estilização em css
 
 <br/>
 
@@ -128,9 +122,12 @@
 
 <br />
 
-- [ ] ***- Testa todo o código.*** 
-- [ ] ***- Pesquisar o perfil com nome*** 
-- [ ] ***- Criar funcionalides para notificações*** 
+- [x] ***- .editorconfig*** 
+- [x] ***- eslintrc*** 
+- [x] ***- prettierrc*** 
+- [x] ***- *** 
+- [ ] ***- *** 
+
 
 
 
