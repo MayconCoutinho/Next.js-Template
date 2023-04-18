@@ -37,7 +37,7 @@
 
 <br/>
 
-## 🎥 Video sobre Estrura de Projeto
+### 🎥 Video sobre Estrura de Projeto
 
 <br/>
 
@@ -53,7 +53,7 @@
 
 <br/>
 
-## 📂 Oque tem dentro das pastas
+### 📂 Oque tem dentro das pastas
 
 <br/>
 
