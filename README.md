@@ -33,16 +33,53 @@
 
 <a id="Resultados"></a>
 ## 🚀 Resultados 
-  > Todos os resultados foram alcançados com sucesso. De modo geral são esses os resultados de cada requisição. 
+  > Todos os resultados foram alcançados com sucesso. De modo geral são esses os resultados. 
 
-<br/> 
+<br/>
+
+## 🎥 Video sobre Estrura de Projeto
+
+<br/>
+
+- src : Pasta principal onde fica toda esturutura
+- components: Reutilizáveis
+- constants: URLs, cores
+- global : Utilizado em toda parte do projeto
+- hooks : Recursos de state e ciclo de vida
+- pages: Telas do seu app
+- scss : Estilização em sass
+- services: Integrações
+- styles: Estilização em css
+
+<br/>
+
+## 📂 Oque tem dentro das pastas
+
+<br/>
+
+- BASE_URL.JS : url principal para usar com axios
+- useContext.js : state global para ser usado em toda aplicação
+  - 🎥 Como criar e usar UseContext
+- useForm.js : useform pronto para ser usado em qualquer projeto
+  - 🎥 Como criar e usar useForme
+- _app.js : tem que ter para a aplicação em Nest.js funcionar
+
+- index.js : Rota Home do projeto
+
+- Home.module.scss : Estilização em sass
+
+- /services index.js : requisições feita por axios
+
+- /styles globals.css Estilização em css
+
+<br/>
+
 
 <a id="Dependências"></a>
 ## 🧪 Dependências
 > Requisitos para rotar o codigo...
 
-<br />   
-
+<br/>
 
 ## `📖 Dependencies` 
 
