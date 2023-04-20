@@ -2,8 +2,9 @@
   <img src="https://user-images.githubusercontent.com/60453269/233435469-3fc9cde3-1695-427e-87bd-e12508afbdc5.png" alt="Logo" width="180" height="180" />
 </p>
 
-
 <h1 align="center"> Next.js </h1>
+
+<a id="Sumário"></a>
 
 <p align="center">
   <b> Template Next.js </b></br>
@@ -31,10 +32,25 @@
 
 <br/>
 
+<a href="#Sumário"> 📖 Volta ao Sumário </a>
+
+<br/>
 
 <a id="Resultados"></a>
 ## 🚀 Resultados 
   > Todos os resultados foram alcançados com sucesso. De modo geral são esses os resultados. 
+
+<br/>
+
+| Welcome|
+|---|
+![image](https://user-images.githubusercontent.com/60453269/233441742-29d0231e-c8e1-456d-a6fa-2d444c6ea61b.png)|
+
+<br/>
+
+| vscode|
+|---|
+![image](https://user-images.githubusercontent.com/60453269/233442224-12e382fd-782e-4284-86ad-0fc2d230cb66.png)
 
 <br/>
 
@@ -69,59 +85,15 @@
 
 <br/>
 
+<a href="#Sumário"> 📖 Volta ao Sumário </a>
+
+<br/>
 
 <a id="Dependências"></a>
 ## 🧪 Dependências
 > Requisitos para rotar o codigo...
 
 <br/>
-
-## `📖 Scripts` 
-
-```JSON
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  }
-
-```
-
-<br/>
-
-## `📖 Dependencies` 
-
-```JSON
-  "dependencies": {
-        "axios": "^0.27.2",
-        "next": "12.2.5",
-        "react": "18.2.0",
-        "react-dom": "18.2.0",
-        "sass": "^1.54.8"
-      }
-
-```
-
-<br /> 
-
-## `📖 devDependencies` 
-
-
-```JSON
-      "devDependencies": {
-        "eslint": "^8.38.0",
-        "eslint-config-google": "^0.14.0",
-        "eslint-config-next": "12.2.5",
-        "eslint-config-prettier": "^8.8.0",
-        "eslint-plugin-prettier": "^4.2.1",
-        "prettier": "^2.8.7"
-      }
-
-```
-
-<br /> 
-
 
 ## `📖 Instalação` 
   
@@ -144,6 +116,64 @@ npm i
 
 <br /> 
 
+## `📖 Scripts` 
+
+```JSON
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "prepare": "husky install"
+  }
+
+```
+
+<br/>
+
+## `📖 Dependencies` 
+
+```JSON
+  "dependencies": {
+    "axios": "^0.27.2",
+    "next": "12.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "sass": "^1.54.8"
+  }
+
+```
+
+<br /> 
+
+## `📖 devDependencies` 
+
+
+```JSON
+  "devDependencies": {
+    "@commitlint/cli": "^17.6.1",
+    "@commitlint/config-conventional": "^17.6.1",
+    "eslint": "^8.38.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-next": "12.2.5",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "husky": "^8.0.3",
+    "prettier": "^2.8.7"
+  }
+
+```
+<br/>
+
+<a href="#Sumário"> 📖 Volta ao Sumário </a>
+
+<br/> 
+
 <a id="Ideias"></a>
 ## 💡 Possíveis Melhoras
 > Possíveis melhorias no código e no projeto, caso queira voltar e melhorá lo.
@@ -156,10 +186,11 @@ npm i
 - [x] ***- *** 
 - [ ] ***- *** 
 
+<br/>
 
+<a href="#Sumário"> 📖 Volta ao Sumário </a>
 
-
-<br /> 
+<br/>
 
 <a id="Creditos"></a>
 ## 🏆 Créditos
@@ -171,5 +202,15 @@ npm i
 | [<img src="https://user-images.githubusercontent.com/60453269/217899761-dc2d4e4b-3336-419d-9076-79304290aa0a.png" width=300><br><sub> Maycon Coutinho </sub>](https://www.linkedin.com/in/maycon-coutinho/) | ***Hello 😃 Se você chegou até aqui, acredito que gostou do meu projeto, nesse caso temos algo em comum, sendo assim que tal conversamos um pouco? Meu chama no linkedin 😁*** | 
 |---|---|
 
-
 </div> 
+
+
+<br/>
+
+
+  ### ⠀⠀⠀⠀[⭐ Linkedin](https://www.linkedin.com/in/maycon-coutinho/)⠀⠀⠀⠀[🧙 GitHub ](https://github.com/MayconCoutinho)
+
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
