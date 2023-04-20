@@ -1,17 +1,12 @@
-import axios from 'axios'
-import BASE_URL from '../constants/BASE_URL.js'
-import { useState } from 'react';
+import axios from "axios";
+import { BASE_URL } from "../constants";
 
-export const Nome = () => {
-    const [nome, setNome] = useState([])
-    axios
-        .get(`${BASE_URL}`)
-        .then((response) => {
-            setNome(response)
-            console.log(response)
-        })
-        .catch((err) => {
-            console.log(err);
-        });
-    return nome
+export const Nome = async () => {
+	try {
+		const response = await axios.get(`${BASE_URL}`);
+		return response.data;
+	} catch (error) {
+		// eslint-disable-next-line no-console
+		console.log(error.response);
+	}
 };

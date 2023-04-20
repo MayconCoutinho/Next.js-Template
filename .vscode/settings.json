@@ -1,0 +1,7 @@
+{
+	"editor.formatOnSave": true,
+	"editor.wordWrap": "on",
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+}
