@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/60453269/232794759-ee78cea3-c5e1-4c30-b81f-b28fc9ff5e04.png" alt="Logo" width="180" height="180" />
+  <img src="https://user-images.githubusercontent.com/60453269/233435469-3fc9cde3-1695-427e-87bd-e12508afbdc5.png" alt="Logo" width="180" height="180" />
 </p>
+
 
 <h1 align="center"> Next.js </h1>
 
