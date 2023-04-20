@@ -1,0 +1,105 @@
+
+.footer {
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  padding: 2rem 8%;
+  background-color: #00041f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 150px;
+}
+
+.footer > img {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 100px;
+  width: 100px;
+}
+
+.LogoNome {
+  display: flex;
+  user-select: none;
+  pointer-events: none;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #ffffff;
+  align-items: center;
+
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 1000;
+  font-size: 30px;
+}
+
+.LogoSobreNome {
+  display: flex;
+  user-select: none;
+  pointer-events: none;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #00bfbf;
+
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 1000;
+  font-size: 30px;
+}
+
+.container_name{
+  display: flex;
+}
+.social_icons_container,
+.footer_menu_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+
+.social_icon {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  border: 1px solid #f2f2f2;
+  background-image: url(../../assets/footer/linkedin.png);
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin: 1rem;
+}
+
+.social_icon:hover {
+  background-color: #be0000;
+  filter: invert(1);
+}
+
+.social_icon:nth-of-type(2) {
+  background-image: url(../../assets/footer/gmail.png);
+}
+
+.social_icon:nth-of-type(3) {
+  background-image: url(../../assets/footer/whatsapp.png);
+}
+
+.footer_menu_container {
+  list-style-type: none;
+  color: #f2f2f2;
+  font-size: 18px;
+}
+
+.menu_item {
+  margin: 1rem 1.5rem;
+  cursor: pointer;
+  opacity: 0.6;
+}
+
+.menu_item:hover {
+  opacity: 100%;
+  color: #04e6e6;
+}
+
+.copyright {
+  color: #f2f2f2;
+  opacity: 0.3;
+  text-align: center;
+}

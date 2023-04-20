@@ -1,23 +1,23 @@
-import Head from 'next/head'
-import styles from '../scss/Home.module.scss'
-import { useContext } from 'react'
-import {GlobalContext} from "../global/context/useContext.js"
+import styles from "../scss/Home.module.scss";
+import { Header } from "../components/header";
+import { Footer } from "../components/footer";
+import { InfoHead } from "../components/infoHead";
+import { StarBackgroud } from "../components/starBackgroud";
+import { Welcome } from "../components/welcome";
 
 export default function Home() {
-
-  const { nome } = useContext(GlobalContext)
-  const { setNome } = useContext(GlobalContext)
-
-  return (
-<div>
-
-<Head>
-    <title> Iniciando Projeto </title>
-    <meta name="Iniciando Projeto" content="Iniciando Projeto" />
-    {/* <link rel="icon" href="/favicon.ico" /> */}
-  </Head>
-  <h1 className={styles.title}> Iniciando Projeto </h1>
-  <h1 className={styles.title}> O que tem dentro do context ? {nome}</h1>
-</div>
-  )
+	return (
+		<div className={styles.container}>
+			<InfoHead
+				title="Template Next.js!"
+				meta_name="Template Next.js!"
+				meta_content="Template Next.js!"
+			/>
+			<Header />
+			<StarBackgroud />
+			<div className={styles.space} />
+			<Welcome />
+			<Footer />
+		</div>
+	);
 }
